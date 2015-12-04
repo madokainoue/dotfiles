@@ -1,5 +1,3 @@
-" ファイルをtree表示してくれる
-"NeoBundle 'scrooloose/nerdtree'
 set number
 set title
 set ambiwidth=double
@@ -15,3 +13,6 @@ set virtualedit=block
 set whichwrap=b,s,[,],<,>
 set backspace=indent,eol,start
 set wildmenu
+
+" ファイルをtree表示してくれる
+"NeoBundle 'scrooloose/nerdtree'
